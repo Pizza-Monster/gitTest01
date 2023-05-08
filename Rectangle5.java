@@ -1,3 +1,4 @@
+// Rectangle Class
 public class Rectangle5 {
     private double length = 0;
     private double width = 0;
